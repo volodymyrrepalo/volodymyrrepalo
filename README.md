@@ -1,4 +1,5 @@
-## Hi there 👋
+## About me
+Software Engineer with over 20 years of professional experience, including 11+ years specializing in Magento (Adobe Commerce) development. Strong expertise in PHP, JavaScript, HTML/CSS, and modern web development, with additional experience in Laravel.
 
 <!--
 **volodymyrrepalo/volodymyrrepalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
