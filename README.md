@@ -1,21 +1,8 @@
 ## About me
-Software Engineer with over 20 years of professional experience, including 11+ years specializing in Magento (Adobe Commerce) development. Strong expertise in PHP, JavaScript, HTML/CSS, and modern web development, with additional experience in Laravel.
-
-## 🛠️ Technology Stack
-
-### Backend & Frameworks
-
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,livewire)](https://skillicons.dev)
-
-### E-commerce
-
-[![My Skills](https://skillicons.dev/icons?i=magento)](https://skillicons.dev)
-
-# Hi, I'm Volodymyr Repalo
 
 **Full-Stack PHP Developer | Laravel & Magento 2 / Adobe Commerce**
 
-Software engineer with **20+ years of professional experience**, including **11+ years specializing in Magento / Adobe Commerce development**. I build web applications and e-commerce functionality with PHP, JavaScript, and CSS, combining backend development with practical, responsive interfaces.
+Software engineer with **20+ years of professional experience**, including **11+ years specializing in Magento / Adobe Commerce development**. Strong expertise in PHP, JavaScript, HTML/CSS, and modern web development, with additional experience in Laravel. I build web applications and e-commerce functionality with PHP, JavaScript, and CSS, combining backend development with practical, responsive interfaces.
 
 This profile brings together my Laravel demo application and custom Magento 2 modules.
 
@@ -58,10 +45,11 @@ An admin tool that identifies images with missing alternative text in product de
 
 | Area | Technologies and tools |
 | --- | --- |
-| Backend and e-commerce | PHP, Laravel, Magento 2 / Adobe Commerce |
-| Frontend | JavaScript, CSS, Livewire, Tailwind CSS |
-| Databases | MySQL, phpMyAdmin |
-| Development environment | Docker, Lando, Linux, PhpStorm |
+| E-commerce | Magento 2 / Adobe Commerce |
+| Backend | PHP, Laravel, REST API, GraphQL, MVC, CRUD |
+| Frontend | JavaScript, CSS, Knockout.js, jQuery, Livewire, Tailwind CSS |
+| Databases | MySQL, Redis |
+| Development tools | Composer, Docker, Lando, Warden, Linux, PhpStorm |
 | Version control | Git, GitHub |
 | API development and testing | Postman, Insomnia |
 | Web servers | Nginx, Apache |
@@ -71,5 +59,5 @@ I use AI tools to support development, with responsibility for understanding, re
 
 ## Professional focus
 
-I'm interested in remote **Full-Stack PHP / Laravel** and **Magento 2 / Adobe Commerce** opportunities, including application development, custom modules, integrations, and improving existing systems.
+I'm interested in remote **Magento 2 / Adobe Commerce** and **Full-Stack PHP / Laravel** opportunities, including application development, custom modules, integrations, and improving existing systems.
 
